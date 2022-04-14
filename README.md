@@ -1,10 +1,9 @@
  
 
 
-> Abrir esta página en [https://craftytale.github.io/phantontale-2/](https://craftytale.github.io/phantontale-2/)
+> Abrir esta página en [https://sebastian-hernandez1403.github.io/phantontale-2/](https://sebastian-hernandez1403.github.io/phantontale-2/)
 
-## Usar como extensión
-
+## Usar como extensió
 Este repositorio se puede agregar como **extensión** en MakeCode.
 
 * abrir [https://arcade.makecode.com/](https://arcade.makecode.com/)
