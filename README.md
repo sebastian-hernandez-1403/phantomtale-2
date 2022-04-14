@@ -1,7 +1,4 @@
- 
-
-
-> Abrir esta página en [https://sebastian-hernandez1403.github.io/phantontale-2/](https://sebastian-hernandez1403.github.io/phantontale-2/)
+> juego [phantomtale](https://makecode.com/_TJ8JboYYKiLc)
 
 ## Usar como extensió
 Este repositorio se puede agregar como **extensión** en MakeCode.
