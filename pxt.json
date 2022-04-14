@@ -1,0 +1,43 @@
+{
+    "name": "phantontale 2",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "corgio": "*",
+        "color-coded-tilemap": "*",
+        "pxt-button-combos": "github:jwunderl/pxt-button-combos#v0.0.24",
+        "Sprite Grid": "github:microsoft/arcade-grid#v1.3.0",
+        "Turtle Logo": "github:mr-coxall/turtle-logo#v1.0.0",
+        "animation": "*",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.2",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.1",
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3",
+        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#6cfbf925b9a4d5ddf3e1078e6cf6ca6a1aebb301",
+        "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
+        "arcade-tile-util": "github:microsoft/arcade-tile-util#v1.0.1",
+        "storyboard": "*",
+        "arcade-minimap": "github:microsoft/arcade-minimap#v0.6.1",
+        "controller": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.ts",
+        "images.g.jres"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.8.22",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
