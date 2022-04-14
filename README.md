@@ -54,8 +54,7 @@ Para editar este repositorio en MakeCode.
 Esta imagen muestra el código de bloques de la última confirmación ubicada en el proyecto maestro.
 Esta imagen puede tardar algunos minutos en actualizarse.
 
-![Una vista renderizada de los bloques](https://github.com/sebastian-hernandez1403/phantontale-2/raw/master/.github/makecode/blocks.png)
-
+![Una vista renderizada de los bloques](https://arcade.makecode.com/---codeembed#pub:_dF1YwaFjiPuY)
 #### Metadatos (se utilizan para buscar y renderizar)
 
 * for PXT/arcade
