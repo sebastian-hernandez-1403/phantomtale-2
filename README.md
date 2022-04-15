@@ -11,12 +11,13 @@ Este repositorio se puede agregar como **extensión** en MakeCode.
 ## mejoras del juego
 
 >barras de vida 
+
 >barras de poder 
+
 >jefes
+
 >bloques animados
 
-
-> Abrir esta página en [https://sebastian-hernandez1403.github.io/phantontale-2/](https://sebastian-hernandez1403.github.io/phantontale-2/)
 
 ## Usar como extensión
 
