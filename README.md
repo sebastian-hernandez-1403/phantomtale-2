@@ -1,12 +1,5 @@
 > juego [phantomtale](https://makecode.com/_TJ8JboYYKiLc)
 
-## Usar como extensió
-Este repositorio se puede agregar como **extensión** en MakeCode.
-
-* abrir [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* haz clic en **Nuevo proyecto**
-* haz clic en **Extensiones** en el menú del engranaje
-* buscar **https://github.com/craftytale/phantontale-2** e importar
 
 ## mejoras del juego
 
