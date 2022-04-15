@@ -1,5 +1,5 @@
-## juego
-> juego [phantomtale](https://makecode.com/_TJ8JboYYKiLc)
+
+## [phantomtale](https://makecode.com/_K3c72q2DX0Xd)
 
 
 ## mejoras del juego
