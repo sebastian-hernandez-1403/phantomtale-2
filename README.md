@@ -1,5 +1,5 @@
 
-## [phantomtale 2](https://makecode.com/_K3c72q2DX0Xd)
+## [phantomtale-2](https://makecode.com/_K3c72q2DX0Xd)
 
 
 ## mejoras del juego
