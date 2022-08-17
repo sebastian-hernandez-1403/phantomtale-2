@@ -12,6 +12,10 @@
 
 >bloques animados
 
+>easter eggs
+
+>nuevos poderes
+
 
 ## Usar como extensión
 
