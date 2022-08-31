@@ -1,8 +1,7 @@
 
-## [phantomtale-2](https://makecode.com/_K3c72q2DX0Xd)
+## phantomtale-2 por ahora en reparacion
 
-
-## mejoras del juego
+## futuras mejoras del juego
 
 >barras de vida 
 
