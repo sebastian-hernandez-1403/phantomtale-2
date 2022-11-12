@@ -1,5 +1,5 @@
 
-## phantomtale-2 por ahora en reparacion
+## [phantomtale-2 experimental](https://arcade.makecode.com/46685-68969-19558-82562)
 
 ## futuras mejoras del juego
 
