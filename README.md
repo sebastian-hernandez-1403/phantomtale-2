@@ -3,8 +3,6 @@
 
 ## futuras mejoras del juego
 
->barras de vida 
-
 >barras de poder 
 
 >jefes
