@@ -1,9 +1,6 @@
-
-## [phantomtale-2 experimental](https://arcade.makecode.com/46685-68969-19558-82562)
+# en desarrollo
 
 ## futuras mejoras del juego
-
->barras de poder 
 
 >jefes
 
